@@ -48,6 +48,3 @@ I'm an aspiring full-stack developer currently transitioning into the tech indus
 ![](https://github-readme-stats.shion.dev/api?username=sherin1111&theme=buefy&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=sherin1111&theme=buefy&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sherin1111&theme=buefy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=sherin1111&icon=0&color=10)](https://visitcount.itsvg.in)
